@@ -70,8 +70,8 @@
      * @namespace
      */
     const options = {
-        preferred_quality: undefined, // Value from listQuality.
-        preferred_premium: undefined, // true or false.
+        preferred_quality: 144, // Value from listQuality.
+        preferred_premium: false, // true or false.
         show_ui: undefined, // true or false.
         updated_id: "",
     };
